@@ -65,7 +65,7 @@ The project is a part of Patrick Collins's (@PatrickAlphaC) Foundry Solidity cou
 ## Quickstart
 
 ```
-git clone https://github.com/itznishant/Foundry-Fund-Me/
+git clone https://github.com/byte0siren/Foundry-Fund-Me/
 cd Foundry-Fund-Me
 forge build
 ```
@@ -115,7 +115,7 @@ forge coverage
 
 [![Nishant Vemulakonda LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/nishant-vemulakonda)
 
-[![Nishant Vemulakonda GitHub followers](https://img.shields.io/github/followers/itznishant?label=GITHUB&style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=blue)](https://github.com/itznishant/)
+[![Nishant Vemulakonda GitHub followers](https://img.shields.io/github/followers/byte0siren?label=GITHUB&style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=blue)](https://github.com/byte0siren/)
 
 Linktree: [@nishant.social](https://linktr.ee/nishant.social)
 
